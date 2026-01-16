@@ -31,7 +31,7 @@ export default function Education() {
             </div>
           </div>
 
-          <div className="mt-12 grid md:grid-cols-3 gap-6">
+          {/* <div className="mt-12 grid md:grid-cols-3 gap-6">
             {[
               { title: 'AWS Certified', icon: Award },
               { title: 'Multi-Cloud Expert', icon: Award },
@@ -48,7 +48,7 @@ export default function Education() {
                 <h4 className="font-semibold text-gray-900">{cert.title}</h4>
               </div>
             ))}
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
