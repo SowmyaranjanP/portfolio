@@ -39,7 +39,7 @@ export default function Hero() {
 
           <div className="flex flex-wrap justify-center gap-4 mb-12">
             <a
-              href="https://linkedin.com/in/padhi-sowmyaranjan"
+              href="https://www.linkedin.com/in/sowmyaranjan-padhi-a520b0231/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-6 py-3 rounded-full hover:bg-white/20 transition-all hover:scale-105 border border-white/20"
@@ -47,7 +47,7 @@ export default function Hero() {
               <Linkedin size={20} />
               <span>LinkedIn</span>
             </a>
-            <a
+            {/* <a
               href="https://github.com/padhi-sowmyaranjan"
               target="_blank"
               rel="noopener noreferrer"
@@ -55,7 +55,7 @@ export default function Hero() {
             >
               <Github size={20} />
               <span>GitHub</span>
-            </a>
+            </a> */}
             <a
               href="mailto:rintu1418@gmail.com"
               className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-6 py-3 rounded-full hover:bg-white/20 transition-all hover:scale-105 border border-white/20"
