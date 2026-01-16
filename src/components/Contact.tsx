@@ -75,7 +75,7 @@ export default function Contact() {
                 </div>
 
                 <div className="flex gap-4 pt-4">
-                  <a
+                  {/* <a
                     href="https://linkedin.com/in/padhi-sowmyaranjan"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -88,7 +88,7 @@ export default function Contact() {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 bg-white/10 backdrop-blur-sm rounded-lg flex items-center justify-center hover:bg-white/20 transition-all hover:scale-110"
-                  >
+                  > */}
                     <Github size={24} />
                   </a>
                 </div>

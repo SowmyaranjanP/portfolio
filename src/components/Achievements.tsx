@@ -18,7 +18,7 @@ export default function Achievements() {
       icon: Target,
       title: '40% Reduction in Release Failures',
       description: 'Through optimized CI/CD pipeline implementation',
-      year: '2023',
+      year: '2024',
     },
     {
       icon: TrendingUp,
